@@ -30,5 +30,4 @@ public class Sort {
 		quickSort(a, start, middle-1);
 		quickSort(a, middle+1, end);
 		}
-	}
 }
